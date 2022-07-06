@@ -43,7 +43,7 @@
     "eventsource-polyfill": "^0.9.6",
     "hawk": "^7.0.7",
     "hoek": "^5.0.3",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "ng-pick-datetime": "^6.0.10",
     "ng-pick-datetime-moment": "^1.0.6",
     "node-sass": "^4.11.0",
